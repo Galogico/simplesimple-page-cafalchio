@@ -1,3 +1,29 @@
 div{
     font-family: fantasy;
 }
+#imagen-navbar{
+    height: 255px;
+    height: 255px;
+}
+
+.linha1{
+    background-color: rgb(0, 255, 0); 
+    color:rgb(255, 0, 0);
+}
+.linha2{
+    background-color: rgb(0, 255, 0); 
+    color:rgb(255, 0, 0);
+}
+.linha3{
+    background-color: rgb(0, 255, 0); 
+    color:rgb(255, 0, 0);
+}
+
+.form-label{
+font-family: cursive;
+}
+
+*{
+background-color: rgb(110, 17, 0);
+
+}
